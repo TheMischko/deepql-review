@@ -2,3 +2,5 @@ genetics/__pycache__
 genetics/environment/__pycache__/
 /refmachines/samples_old
 experiments_new
+.idea
+**/*/__pycache__
